@@ -128,7 +128,6 @@ We used two main datasets:
 
 - **Manual labeling is unreliable** — clear guidelines are essential
 - **Short reviews** significantly lower model accuracy
-- **TF-IDF model** suffers from high label imbalance
 - **BERT** shows robustness and stability across label types
 - **GPT-4o**, despite being advanced, is not reliable zero-shot
 
