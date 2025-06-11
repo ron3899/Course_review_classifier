@@ -86,7 +86,7 @@ We used two main datasets:
 ## 🧪 Evaluation Metrics
 
 - Accuracy (for predicting all 4 labels correctly)
-- Per-label Precision, Recall, F1-score
+- Per-label Precision, Recall
 - Confusion matrix analysis
 - External evaluation by **GPT-4o (zero-shot)**
 
