@@ -138,7 +138,6 @@ We used two main datasets:
 - Build a **larger dataset focused on short reviews**
 - Create a **standardized labeling policy** for ambiguous cases
 - Fine-tune transformer models for better accuracy and generalization
-- Consider hybrid pipelines — e.g., SBERT for detection + GPT for rewriting
 
 ---
 
